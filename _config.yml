@@ -1,10 +1,10 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
+title: "Rukis Abenteuer"
+author: "nicht Ruki"
+description: "Mein erster blog ohne Sinn"
 permalink: /:title/
-lang: "en"
+lang: "de"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d %B, %Y"
 
 # Layout
 
@@ -19,9 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, url: "/feed.xml"}
+  #- {title: Mail, url: "some@mail.de"}
+  #- {title: Github, url: "https://github.com/niklasbuschmann/contrast"}
+  #- {title: Subscribe, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
