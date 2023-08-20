@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Pläne für die Woche"
+date:   2023-08-20 11:03:14 +0200
+categories: jekyll update
+---
+In den nächsten 7 Tagen habe ich viel Zeit und werde sie nutzen. Herumsitzen kann ich jeder Zeit, aber ein wenig auch sich allein gestellt sein ohne Entertainment durch Mitbewohner ist eben doch selten - fast schon einmalig im Jahr.
+
+Ein kurzer rundown meiner Ideen:
+
+    - Ausflug zur Burganlage
+    - Besuch in hirstorischer Stätte
+    - Tamagochi weiterentwickeln
+    - Rukis größten Fan zu Kuchen einladen
+    - Kletterhalle
+    - Babysitten
+
+Außerdem ein paar Ziele:
+
+    - Französisch weiterentwickeln mit 2 x Seiten HP pro Tag
+    - Tamagochi mit Schrittzählerfunktion
+
+Und natürlich To Dos:
+
+    - S402 installieren
+    - S FS zurücksetzen
+    - Blick auf X2go issue werfen
